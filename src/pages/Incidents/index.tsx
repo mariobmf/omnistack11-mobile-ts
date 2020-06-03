@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-one-expression-per-line */
 import React, { useEffect, useState } from 'react';
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { Feather } from '@expo/vector-icons';
@@ -5,17 +6,19 @@ import { useNavigation } from '@react-navigation/native';
 import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native';
 
 import api from '../../services/api';
-import logo from '../../assets/logo.png';
 
-interface IIncident{
+import styles from './styles';
+
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const logo = require('../../assets/logo.png');
+
+interface IIncident {
   id: string;
   title: string;
   description: string;
   value: number;
   name: string;
 }
-
-import styles from './styles';
 
 export default function Incidents() {
   const navigation = useNavigation();

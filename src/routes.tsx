@@ -16,5 +16,5 @@ const Routes: React.FC = () => {
       </AppStack.Navigator>
     </NavigationContainer>
   );
-}
+};
 export default Routes;
