@@ -20,7 +20,7 @@ interface IIncident {
   name: string;
 }
 
-export default function Incidents() {
+const Incidents: React.FC = () => {
   const navigation = useNavigation();
 
   const [incidents, setIncidents] = useState<IIncident[]>([]);
@@ -101,4 +101,5 @@ export default function Incidents() {
       />
     </View>
   );
-}
+};
+export default Incidents;
