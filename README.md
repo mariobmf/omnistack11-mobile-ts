@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero-mobile.png"/>
+    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero-mobile.png" height="300px"/>
 </h1>
 
 ## 🚀 Tecnologias
