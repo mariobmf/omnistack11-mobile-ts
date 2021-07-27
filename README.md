@@ -37,10 +37,6 @@ $ yarn install
 $ yarn start
 ```
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
 Feito por [Mário Fernandes](https://www.linkedin.com/in/mario-fernandes-dev/) com base na semana OmniStack 11.0
