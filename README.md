@@ -25,10 +25,10 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 ### Instalando Mobile
 ```bash
 # Clonar o Repositório
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/mariobmf/omnistack11-mobile-ts.git
 
 # Entrar no Repositório
-$ cd /mobile
+$ cd /omnistack11-mobile-ts
 
 # Instalar as Dependências
 $ yarn install
