@@ -9,6 +9,10 @@
   <a href="#-licença">Licença</a>
 </p>
 
+<h1 align="center">
+    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero-mobile.png"/>
+</h1>
+
 ## 🚀 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
